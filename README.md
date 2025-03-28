@@ -1,7 +1,7 @@
 <h1 align="center">Olá eu sou o Erisson Camilo Teixeira</h1>
 <h3 align="center">Desenvolvedor Front-end em busca da primeira oportunidade de atuação.</h3>
 
-<h3 align="left"> https://www.linkedin.com/in/erisson-camilo-teixeira/:</h3>
+<h3 align="left"> https://www.linkedin.com/in/erisson-camilo-teixeira/</h3>
 <p align="left">
 </p>
 
