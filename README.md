@@ -2,11 +2,12 @@
 
 ---
 
-## 👋 Olá, eu sou o Erisson Teixeira!
+## 👋 Olá, eu sou o Erisson!
 
-Sou um desenvolvedor back-end em início de carreira, focado em **Java** e **Spring Boot**, com interesse em construir **APIs REST**, trabalhar com **bancos de dados relacionais** e aplicar **boas práticas de programação orientada a objetos**.  
+Sou um desenvolvedor back-end em início de carreira, especializado em **Java** e **Spring Boot**, com foco na construção de **APIs REST** e manipulação de **bancos de dados relacionais**. Tenho interesse em aplicar **boas práticas de programação orientada a objetos (OO)**, estruturando código limpo, modular e reutilizável.  
 
-Tenho experiência prática em pequenos projetos e desafios, aplicando **JUnit**, **Mockito** e conceitos de **CRUD** para aprendizado contínuo e evolução profissional.
+Tenho experiência prática em pequenos projetos e desafios, onde aplico **conceitos de OO** como **encapsulamento, herança, polimorfismo e composição**, além de realizar testes com **JUnit** e **Mockito**, garantindo soluções robustas e de fácil manutenção.
+
 
 ---
 
