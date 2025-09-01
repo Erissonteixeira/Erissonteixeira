@@ -35,6 +35,5 @@ Tenho experiência prática em pequenos projetos e desafios, onde aplico **conce
 
 - 📧 erisson.trabalhos@gmail.com  
 - 📱 (51) 99235-7588  
-- 🔗 [LinkedIn](https://linkedin.com/in/erisson-camilo-teixeira)  
-- 🔗 [GitHub](https://github.com/Erissonteixeira)  
+- 🔗 [LinkedIn](https://linkedin.com/in/erisson-camilo-teixeira)   
 - 📍 Alvorada – RS
