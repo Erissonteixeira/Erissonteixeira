@@ -23,6 +23,9 @@ Tenho experiência prática em pequenos projetos e desafios, onde aplico **conce
 
 ## 📂 Projetos de Destaque
 
+- **CRUD Naruto II (Spring Boot + Java)**  
+  API completa inspirada no universo Naruto, com CRUD de personagens e jutsus, tratamento de exceções personalizadas, DTOs, MapStruct, testes unitários e suporte a H2/MySQL.  
+
 - **CRUD Oficina Mecânica (Spring Boot + Java)**  
   Projeto de gerenciamento de serviços de oficina com CRUD completo, usando DTOs, validação e testes unitários.  
 
